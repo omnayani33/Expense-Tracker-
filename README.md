@@ -1,4 +1,4 @@
-# Expense-Tracker-
+# Expense-Tracker
 
 Of course! Here is a comprehensive README.md file for your Expense Tracker project. This file explains the project's features, how to set it up, the technologies used, and provides a look at the database schema, all based on the Python code you provided.
 
