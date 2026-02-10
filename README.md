@@ -1,8 +1,5 @@
 # Expense-Tracker
 
-Of course! Here is a comprehensive README.md file for your Expense Tracker project. This file explains the project's features, how to set it up, the technologies used, and provides a look at the database schema, all based on the Python code you provided.
-
-Tkinter Expense Tracker
 A comprehensive, feature-rich desktop application for tracking personal expenses, built with Python's Tkinter library for the GUI and SQLite for database management. The application provides a user-friendly interface for managing expenses, categories, budgets, and generating insightful visual reports. It also includes a full-featured admin panel for user and system management.
 
 Screenshots
